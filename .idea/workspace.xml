@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1da395d8-a006-4c64-875c-9c90c3944817" name="Default Changelist" comment="" />
+    <list default="true" id="1da395d8-a006-4c64-875c-9c90c3944817" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/laravel.mini.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/laravel.mini.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -143,7 +152,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608527772059</updated>
-      <workItem from="1608527773203" duration="4401000" />
+      <workItem from="1608527773203" duration="5008000" />
+      <workItem from="1610499700926" duration="1986000" />
     </task>
     <servers />
   </component>
@@ -159,6 +169,10 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1215" y="232" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1608624624421" />
+    <state x="-1180" y="274" key="FileChooserDialogImpl" timestamp="1608788736730">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1180" y="274" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1608788736730" />
     <state width="207" height="457" key="HiddenNamespacesPopup" timestamp="1608623394597">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
