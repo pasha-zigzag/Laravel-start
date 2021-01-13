@@ -15,4 +15,11 @@ class MainController extends Controller
         return view('home', compact('users'));
     }
 
+    public function search(Request $request)
+    {
+        $q = $request->q;
+        $users = Phonebook::where('name', 'LIKE', "%${q}%")->orderBy('name')->paginate(10);
+        return view('home', compact('users'));
+    }
+
 }

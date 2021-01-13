@@ -26,8 +26,8 @@
 
     </div><!-- ./table-responsive-->
 
-    {{ $users->links() }}
+    {{ $users->appends(['q' => request()->q])->links() }}
     @else
-
+        <p>Записей не найдено</p>
     @endif
 @endsection
